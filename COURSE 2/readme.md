@@ -9,6 +9,7 @@ To build a classification model you need:
 - Features that can be quantified
 - A labeled target or outcome variable
 - Method to measure similarity 
+
 **Linear Regression**  
 A linear regression models the relationship between a continuous variable and one or more scaled variables.It is usually represented as a dependent function equal to the sum of a coefficient plus scaling factors times the independent variables. 
 
