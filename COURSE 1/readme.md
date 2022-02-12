@@ -30,9 +30,12 @@ Three common measures of error for linear regressions are:
 The most simple syntax to train a linear regression using scikit learn is:
 
 from sklearn.linear_model import LinearRegression
+
 LR = LinearRegression()
+
 LR = LR.fit(X_train, y_train) 
 
 To score a data frame X_test you would use this syntax:
+
 y_predict = LR.predict(X_test)  
 
