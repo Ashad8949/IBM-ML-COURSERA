@@ -1,11 +1,11 @@
 ### Summary/Review
-#### Training and Test Splits  
+**Training and Test Splits**  
 Splitting your data into a training and a test set can help you choose a model that has better chances at generalizing and is not overfitted.
 The training data is used to fit the model, while the test data is used to measure error and performance. 
 Training error tends to decrease with a more complex model.Cross validation error generally has a u-shape.
 It decreases with more complex models, up to a point in which it starts to increase again. 
 
-#### Cross Validation  
+**Cross Validation** 
 The three most common cross validation approaches are:
 
 - k-fold cross validation
